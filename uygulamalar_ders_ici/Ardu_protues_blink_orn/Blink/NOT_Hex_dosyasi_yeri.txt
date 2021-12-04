@@ -1,0 +1,18 @@
+
+.hex oluþmasý için
+
+Arduino IDE de;
+Dosya 
+Tercihler
+	-derleme
+	-yükle
+	
+seçenekleri iþaretli olmalýdýr.
+
+* Her yeni derleme de dosyanýn yeri deðiþiyor.
+Derleme sonucunda dosya yeri görülebilir.
+
+Genel olarak Win8 ve sonrasýnda;
+
+"C:\Users\ilyas\AppData\Local\Temp\arduino_build_****"
+þeklindeki klasör oluyor.
