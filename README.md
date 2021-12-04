@@ -1,6 +1,5 @@
 
-<h1 align="center">8-14 Yaş Grubundaki Çocuklar İçin Kodlama </h1>
-<h1 align="center">SCRATCH ve mBLOCK </h1>
+<h1 align="center">ARDUINO Ders Çalışmaları </h1>
 
 ## Giriş
 <p  align="center">
