@@ -1,30 +1,30 @@
 
-<h1 align="center">ARDUINO Ders Çalışmaları </h1>
+<h1 align="center">ARDUINO Course Studies </h1>
 
 ## Giriş
 <p  align="center">
 <img src="img/ardu.png" alt="pelus" width="35%" height="35%" align="center" style="margin:10px">
 </p>
 
-Pandemi döneminden önce lise yaş grubundaki öğrencilerle yaptığım arduino ile ilgili eğitim çalışmaları paylaşılmıştır. 
+Voluntary training activities on Arduino that I did with high school students before the pandemic period were shared.
 
-Özellikle lise seviyesine uygun müfredat belirlenmiş ve buna uygun  birçok yabancı ve yerli kaynak taranmış ve elde edilen tecrübelerle de birleştirilerek ders içerikleri hazırlanmıştır.
+A curriculum suitable especially for high school level has been determined, many foreign and domestic resources have been scanned and course contents have been prepared by combining the experiences gained.
 
-Yararlanılan müfredatlar açık kaynak olup ingilizceden çeviri yapılmış ve yaş gruplarına uygun olacak şekilde tekrar düzenlenerek slaytlar ile desteklenmiştir. 
+The curriculums used are open source, translated from English, rearranged according to age groups and supported with slides.
 
 <p  align="center">
 <img src="img/yaslara_gore_mufredat.png" alt="pelus" width="100%"  align="center" style="margin:10px">
-Resim: Yaşlara göre STEM çalışmaları.
+Image: STEM studies by age.
 </p>
 
 
-Lise çağındaki öğrencilerin matematik-fizik becerileri de düşünülerek yapılan uygulamalar ona göre düzenlenmiştir. 
+The applications are designed considering the mathematics-physics skills of high school students.
 <br><br>
-Gelecekte kendisine yazılım alanını seçmek isteyen öğrencilere yazılım ve donanımla tanışmak için güzel bir başlangıç olacağını düşünüyorum.
+I think it will be a good start for students who want to choose the software field in the future to get acquainted with software and hardware.
 
-Umarım ilgilenenlere faydalı olur...
+I hope it will be useful to those interested...
 
-## İletişim
+
 
 - GitHub [@your-ilyas9461](https://github.com/ilyas9461)
 - Linkedin [@your-linkedin](https://www.linkedin.com/in/ilyas-yagcioglu/)
